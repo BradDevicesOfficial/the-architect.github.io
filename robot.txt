@@ -1,6 +1,4 @@
-# robots.txt for The Architect (BradVerse Founder Site)
 User-agent: *
 Allow: /
 
-# Sitemap location
-Sitemap: https://bradleynyadimo.github.io/the-architect/sitemap.xml
+Sitemap: https://braddevicesofficial.github.io/the-architect.github.io/sitemap.xml
